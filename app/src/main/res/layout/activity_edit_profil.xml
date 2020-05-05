@@ -10,6 +10,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
+        android:textColor="#000"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:textSize="20sp"
         android:gravity="center_horizontal"
         android:text="Edit Profil"/>
     <EditText
@@ -23,6 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:backgroundTint="@color/colorAccent"
+        android:textColor="#fff"
+        android:background="@drawable/bulet2"
         android:text="SIMPAN"/>
 </LinearLayout>
