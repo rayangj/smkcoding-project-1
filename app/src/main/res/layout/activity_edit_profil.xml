@@ -15,7 +15,7 @@
         android:textStyle="bold"
         android:textSize="20sp"
         android:gravity="center_horizontal"
-        android:text="Edit Profil"/>
+        android:text="Edit Nama"/>
     <EditText
         android:id="@+id/edtProfilName"
         android:layout_width="match_parent"
